@@ -6,3 +6,5 @@ Neki test 4.
 Jos jedna linija.
 Jos jedna.
 Test prvi korisnik.
+Drugi korisnik.‚
+>>>>>>> 444dafe032e903beb25777ca46b88bdad2d5666c
